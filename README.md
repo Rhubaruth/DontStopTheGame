@@ -1,2 +1,2 @@
-# DontStopTheGame
-Game DontStop in Tkinter
+# Something
+random in Tkinter
